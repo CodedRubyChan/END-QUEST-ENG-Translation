@@ -206,7 +206,7 @@
     },
     "skillTypes": [
         "",
-        "スキル"
+        "Skills"
     ],
     "sounds": [
         {
@@ -462,7 +462,7 @@
     ],
     "terms": {
         "basic": [
-            "レベル",
+            "Level",
             "Lv",
             "ＨＰ",
             "HP",
@@ -470,36 +470,36 @@
             "MP",
             "ＴＰ",
             "TP",
-            "経験値",
+            "Experience Points",
             "EXP"
         ],
         "commands": [
-            "たたかう",
-            "にげる",
-            "アタック",
-            "アタック",
-            "アイテム",
-            "スキル",
-            "装備",
-            "ステータス",
-            "並び替え",
-            "セーブ",
-            "ゲーム終了",
-            "オプション",
-            "武器",
-            "防具",
-            "大事なもの",
-            "装備",
-            "最強装備",
-            "全て外す",
+            "Fight",
+            "Escape",
+            "Attack",
+            "Attack",
+            "Item",
+            "Skills",
+            "Equipment",
+            "Status",
+            "Sorting",
+            "Save",
+            "Game Over",
+            "Options",
+            "Weapons",
+            "Armor",
+            "Key Items",
+            "Equipment",
+            "Strongest Weapon",
+            "Remove All",
             "New Game",
             "Continue",
             null,
-            "タイトルへ",
-            "やめる",
+            "Title Screen",
+            "Exit",
             null,
-            "購入する",
-            "売却する"
+            "Buy",
+            "Sell"
         ],
         "params": [
             "最大ＨＰ",
