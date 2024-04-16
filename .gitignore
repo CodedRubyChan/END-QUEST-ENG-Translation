@@ -9,6 +9,7 @@ libGLESv2.dll
 *.pak
 package.json
 pdf.dll
+www/data/System.csv
 www/fonts/gamefont.css
 www/fonts/mplus-1m-regular.ttf
 www/icon/icon.png
