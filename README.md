@@ -193,7 +193,7 @@ Translation Patch for "END QUEST", a Prequel Game of Death end re;Quest which wa
 - [ ] MapInfos.json
 - [ ] Skills.json
 - [ ] States.json
-- [x] ~~System.json~~
+- [x] ~~System.json~~ - Not TL-checked
 - [ ] Tilesets.json
 - [ ] Troops.json
 - [ ] Weapons.json
