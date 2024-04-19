@@ -1,6 +1,9 @@
 # END-QUEST-ENG-Translation
 Translation Patch for "END QUEST", a Prequel Game of Death end re;Quest which was only released as a pre-order bonus in Japan.
 
+# Contribute
+Fork this Repo, translate the stuff that isn't translated or fix my mistakes if you see them and know what i did wrong and finally make a pull request AND i will put you into the credits of this repo and (if i can figure it out) in the credits of the game
+
 # What you need:
 - Base Game: https://archive.org/details/end-quest.-7z
 
